@@ -1,0 +1,2 @@
+# PowerfulStudioOneGo
+Python script
